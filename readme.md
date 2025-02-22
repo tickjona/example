@@ -1,3 +1,6 @@
 # Read me
 
-Hello!
+
+
+I have updated this file.
+I removed 'Hello!'
